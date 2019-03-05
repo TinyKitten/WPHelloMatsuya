@@ -1,4 +1,4 @@
-<?php
+matsuya_get_menu<?php
 /**
  * PHPUnit bootstrap file
  *
